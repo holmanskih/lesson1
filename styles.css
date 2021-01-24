@@ -1,0 +1,54 @@
+/* множественные стили  */
+p, span {
+    /* меняем задний фон */
+    background-color: fuchsia;
+}
+
+/* убираем стандартные стили */
+a {
+    text-decoration: none;
+}
+
+h1 {
+    /* стиль шрифта */
+    font-family: 'Inter', sans-serif;
+
+    /* размер шрифта */
+    font-size: 80px;
+
+    /* color - цвет шрифта */
+    color: red;
+
+    /* rgb */
+    /* color: rgb(30, 115, 212); */
+
+    /* color: #fff; */
+    /* color: #000; */
+
+    font-weight: 800;
+}
+
+p {
+    text-align: center;
+}
+
+
+button {
+    font-family: 'Inter', sans-serif;
+
+    /* размер текста */
+    font-size: 20px;
+
+    /* жирность текста */
+    font-weight: 400;
+
+    color: #fff;
+    background-color: #0E49B5;
+
+    /* убрать контур */
+    border: none;
+
+
+    /* тень для кнопки */
+    box-shadow: 
+}
